@@ -4,7 +4,6 @@
     <outline text="Echo der Zeit" type="rss" xmlUrl="https://www.srf.ch/feed/podcast/sd/28549e81-c453-4671-92ad-cb28796d06a8.xml" />
     <outline text="Kassensturz" type="rss" xmlUrl= "https://www.srf.ch/feed/podcast/sd/78a6014e-8058-4bdd-88aa-824f846ca6f0.xml" />
  <outline text="NDR Covid Update" type="rss" xmlUrl="https://www.ndr.de/nachrichten/info/podcast4684.xml" />
-     <outline text="NDR Covid Update" type="rss" xmlUrl="https://www.ndr.de/nachrichten/info/podcast4684.xml" />
 <outline text="NZZ Akzent" type="rss" xmlUrl="https://akzent.podigee.io/feed/mp3" htmlUrl="https://akzent.podigee.io/feed/mp3" />
 <outline text="SRF Focus" type="rss" xmlUrl="https://www.srf.ch/feed/podcast/sd/66d56e22-51cf-47a6-badd-7776ec4f6501.xml#75536df4-69b3-44f9-b006-9e9cd736d7f3" />  
     
