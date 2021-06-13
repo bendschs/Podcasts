@@ -8,6 +8,6 @@
     <outline text="SRF Focus" type="rss" xmlUrl="https://www.srf.ch/feed/podcast/sd/66d56e22-51cf-47a6-badd-7776ec4f6501.xml#75536df4-69b3-44f9-b006-9e9cd736d7f3" />  
     <outline text="Treffpunk: Zukunft" type="rss" xmlUrl="https://zukunftsinstitut.libsyn.com/rss" />
     <outline text="Zeit Alles gesagt?" type="rss" xmlUrl="https://allesgesagt.podigee.io/feed/mp3" />
-    <outline text="Zeit Alles gesagt?" type="rss" xmlUrl="https://podcasts.apple.com/ch/podcast/alles-gesagt/id1374777021?l=en" />
+    <outline text="Zeit Alles gesagt?" type="rss" xmlUrl="https://podcasts.apple.com/ch/podcast/alles-gesagt" />
   </body>
 </opml>
