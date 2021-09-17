@@ -12,6 +12,7 @@
     <outline text="Sternstunde Philosophie" type="rss" xmlUrl="https://www.srf.ch/feed/podcast/sd/28426f25-6beb-4264-8ca9-ddddf717d6ea.xml" />
     <outline text="FAZ Podcasts für Deutschland" type="rss" xmlUrl="https://podcastfuerdeutschland.podigee.io/feed/mp3" />
     <outline text="FAZ Digitec" type="rss" xmlUrl="https://digitec.podigee.io/feed/mp3" />
+    <outline text="heiseshow" type="rss" xmlUrl="https://heiseshow.podigee.io/feed/mp3" />
   </body>
 </opml>
 
