@@ -14,6 +14,7 @@
     <outline text="FAZ Digitec" type="rss" xmlUrl="https://digitec.podigee.io/feed/mp3" />
     <outline text="heiseshow" type="rss" xmlUrl="https://heiseshow.podigee.io/feed/mp3" />
     <outline text="Rai Kulturjournal" type="rss" xmlUrl="http://www.raibz.rai.it/feed.php?id=24" />
+    <outline text="Servus. Grüezi. Hallo." type="rss xmlUrl="https://servusgruezihallo.podigee.io/feed/mp3" />
   </body>
 </opml>
 
